@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/alfathmuqoddas/react-weather-pwa/static/js/main.eeffcb81.chunk.js",
+    "main.js.map": "/alfathmuqoddas/react-weather-pwa/static/js/main.eeffcb81.chunk.js.map",
+    "runtime-main.js": "/alfathmuqoddas/react-weather-pwa/static/js/runtime-main.5d78617d.js",
+    "runtime-main.js.map": "/alfathmuqoddas/react-weather-pwa/static/js/runtime-main.5d78617d.js.map",
+    "static/js/2.e1632085.chunk.js": "/alfathmuqoddas/react-weather-pwa/static/js/2.e1632085.chunk.js",
+    "static/js/2.e1632085.chunk.js.map": "/alfathmuqoddas/react-weather-pwa/static/js/2.e1632085.chunk.js.map",
+    "index.html": "/alfathmuqoddas/react-weather-pwa/index.html",
+    "precache-manifest.d235287464652b196490870b36f7470e.js": "/alfathmuqoddas/react-weather-pwa/precache-manifest.d235287464652b196490870b36f7470e.js",
+    "service-worker.js": "/alfathmuqoddas/react-weather-pwa/service-worker.js",
+    "static/js/2.e1632085.chunk.js.LICENSE.txt": "/alfathmuqoddas/react-weather-pwa/static/js/2.e1632085.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d78617d.js",
+    "static/js/2.e1632085.chunk.js",
+    "static/js/main.eeffcb81.chunk.js"
+  ]
+}
